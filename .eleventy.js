@@ -4,6 +4,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("reports/images");
   eleventyConfig.addPassthroughCopy("reports/audio");
   
+  // Ensure user-specific directories are passed through
+  eleventyConfig.addPassthroughCopy("reports/images/chessvideworld");
+  eleventyConfig.addPassthroughCopy("reports/audio/chessvideworld");
+  eleventyConfig.addPassthroughCopy("reports/images/alientcp");
+  eleventyConfig.addPassthroughCopy("reports/audio/alientcp");
+  
   return {
     dir: {
       input: "reports",

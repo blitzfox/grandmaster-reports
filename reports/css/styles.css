@@ -242,6 +242,9 @@ a.back-link:hover {
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .report-card:hover {
@@ -252,6 +255,18 @@ a.back-link:hover {
 .report-card h2 {
   font-size: 1.5rem;
   margin-bottom: 0.8rem;
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  line-height: 1.2;
+}
+
+.report-card p {
+  margin-bottom: 0.5rem;
+}
+
+.report-card p:last-of-type {
+  margin-top: auto;
 }
 
 .view-report {
