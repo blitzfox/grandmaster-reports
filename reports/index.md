@@ -30,6 +30,12 @@ title: Chess Game Reports
 
 <div class="reports-list">
   <div class="report-card">
+    <h2>Game Report – @DrMihajlo</h2>
+    <p>Analysis of 4 critical moments from a recent game</p>
+    <p><a href="/drmihajlo/" class="view-report">View Report</a></p>
+  </div>
+
+  <div class="report-card">
     <h2>Game Report – @chessvideworld</h2>
     <p>Analysis of 4 critical moments from a recent game</p>
     <p><a href="/chessvideworld/" class="view-report">View Report</a></p>

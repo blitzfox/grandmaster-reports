@@ -1,0 +1,140 @@
+---
+layout: layout.njk
+title: Game Report – @DrMihajlo
+date: 2025-03-29
+---
+
+<p class="breadcrumb"><a href="/">Grandmaster Reports</a> / DrMihajlo's Report</p>
+
+<div class="report-header">
+  <h1 class="player-name">Game Report – @DrMihajlo</h1>
+  <p class="report-date">March 29, 2025</p>
+</div>
+
+<div class="critical-moments">
+  <div class="moment-card">
+    <div class="moment-header">
+      <h2>Critical Moment 1: Black's Blunder Allows Counterplay</h2>
+    </div>
+    <div class="moment-content">
+      <p><strong>Position:</strong> Black to move<br>
+      <strong>Blunder:</strong> d5??<br>
+      <strong>Stronger Move:</strong> O-O</p>
+      
+      <div class="coach-feedback">
+        <p>Black plays 14...d5, a blunder that changes the evaluation from -2.22 to -0.17. This move opens the center while Black's king is still uncastled, allowing White to exploit the loose pawn on d5. The knight on e4 is now a powerful attacker.</p>
+        <br>
+        <p><strong>Recommendation:</strong> 14... O-O (castling to safety)</p>
+        <br>
+        <p><strong>Why it's better:</strong> Castling removes the king from the center and connects the rooks. After 14...O-O, Black maintains a solid position with a clear advantage (-2.22). The move 14...d5 unnecessarily complicates the position and gives White counterplay.</p>
+        <br>
+        <p><strong>Principle:</strong> King safety first. When ahead in development or material, prioritize consolidating your position rather than creating unnecessary weaknesses.</p>
+      </div>
+      
+      <img class="moment-diagram" src="/images/drmihajlo/image1.png" alt="Position Diagram">
+      
+      <audio controls class="moment-audio">
+        <source src="/audio/drmihajlo/audio1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+  </div>
+
+  <div class="moment-card">
+    <div class="moment-header">
+      <h2>Critical Moment 2: Missed Tactical Opportunity for Black</h2>
+    </div>
+    <div class="moment-content">
+      <p><strong>Position:</strong> Black to move<br>
+      <strong>Blunder:</strong> Be6?!<br>
+      <strong>Stronger Move:</strong> Qxc6</p>
+      
+      <div class="coach-feedback">
+        <p>Black plays 19...Be6, missing a chance to simplify into a winning endgame with 19...Qxc6. The evaluation swings from -0.98 to -0.08, indicating a missed opportunity to secure a clear advantage. Going into the endgame allows the pawn advantage to materialize quicker.</p>
+        <br>
+        <p><strong>Recommendation:</strong> 19... Qxc6 20. Bxc6 Rb8 (followed by ...Rfd8)</p>
+        <br>
+        <p><strong>Why it's better:</strong> Trading queens eliminates White's counterplay and leaves Black with a pawn material advantage. The engine line shows Black consolidating with a clear path to victory.</p>
+        <br>
+        <p><strong>Principle:</strong> Simplify when ahead. Exchanging pieces reduces counterplay and makes it easier to convert an advantage. Don't be afraid to go into an endgame when you are ahead.</p>
+      </div>
+      
+      <img class="moment-diagram" src="/images/drmihajlo/image2.png" alt="Position Diagram">
+      
+      <audio controls class="moment-audio">
+        <source src="/audio/drmihajlo/audio2.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+  </div>
+
+  <div class="moment-card">
+    <div class="moment-header">
+      <h2>Critical Moment 3: White's Blunder Loses Material</h2>
+    </div>
+    <div class="moment-content">
+      <p><strong>Position:</strong> White to move<br>
+      <strong>Blunder:</strong> a3??<br>
+      <strong>Stronger Move:</strong> Qa4</p>
+      
+      <div class="coach-feedback">
+        <p>White plays 20.a3, a blunder that drops the evaluation from -0.08 to -1.80. This weakens the queenside and allows Black to activate the rook with ...Rac8, targeting the vulnerable a3 pawn.</p>
+        <br>
+        <p><strong>Recommendation:</strong> 20. Qa4 (defending the bishop and keeping pressure)</p>
+        <br>
+        <p><strong>Why it's better:</strong> Qa4 maintains coordination and prevents Black from exploiting the weakened queenside. The engine line shows White staying in the game with active play.</p>
+        <br>
+        <p><strong>Principle:</strong> Avoid creating unnecessary weaknesses. Every pawn move should be carefully considered, especially when the opponent has active pieces.</p>
+      </div>
+      
+      <img class="moment-diagram" src="/images/drmihajlo/image3.png" alt="Position Diagram">
+      
+      <audio controls class="moment-audio">
+        <source src="/audio/drmihajlo/audio3.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+  </div>
+
+  <div class="moment-card">
+    <div class="moment-header">
+      <h2>Critical Moment 4: Missed Winning Tactical Sequence</h2>
+    </div>
+    <div class="moment-content">
+      <p><strong>Position:</strong> Black to move<br>
+      <strong>Blunder:</strong> Kb6?<br>
+      <strong>Stronger Move:</strong> Kd4</p>
+      
+      <div class="coach-feedback">
+        <p>Black plays 37...Kb6, missing a chance to play 37...Kd4, which would have been winning. The king move allows White to resist longer, while Kd4 would have exploited the loose rook on e3.</p>
+        <br>
+        <p><strong>Recommendation:</strong> 37... Kd4 38.Re4+ Kc3 39.Re3+ Kb2</p>
+        <br>
+        <p><strong>Why it's better:</strong> Black's king invades White's position, targeting the a3 pawn and creating a passed pawn. After 40.Re4 Rxa3, Black is completely winning.</p>
+        <br>
+        <p><strong>Principle:</strong> In rook endgames, active king play is crucial. Centralize the king to support pawn advances and restrict the opponent's pieces.</p>
+      </div>
+      
+      <img class="moment-diagram" src="/images/drmihajlo/image4.png" alt="Position Diagram">
+      
+      <audio controls class="moment-audio">
+        <source src="/audio/drmihajlo/audio4.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+  </div>
+</div>
+
+<div class="tips-section">
+  <h2>Final Tips</h2>
+  <p>These moments highlight the importance of:</p>
+  <ul class="tips-list">
+    <li><strong>King safety:</strong> Prioritize king safety, especially when ahead in development or material. The blunder in moment 1 shows how opening the center with an uncastled king can quickly erase an advantage.</li>
+    <li><strong>Simplification:</strong> When ahead, consider simplifying the position by trading pieces. The missed tactical opportunity in moment 2 demonstrates how simplification can make it easier to convert an advantage.</li>
+    <li><strong>Pawn moves:</strong> Avoid unnecessary pawn moves that create weaknesses. White's blunder in moment 3 shows how a seemingly innocent pawn move can lead to material loss.</li>
+    <li><strong>King activity in endgames:</strong> In rook endgames, an active king is crucial. As seen in moment 4, centralizing your king and supporting pawn advances can be the difference between winning and drawing.</li>
+    <li><strong>Calculation depth:</strong> Calculate multiple moves ahead, especially in critical positions. Many of the mistakes in this game could have been avoided with deeper calculation.</li>
+  </ul>
+</div>
+
+<p style="margin-bottom: 30px;"><a href="/" class="back-link">← Back to All Reports</a></p> 
