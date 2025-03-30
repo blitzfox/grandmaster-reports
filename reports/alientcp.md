@@ -80,7 +80,7 @@ date: 2025-03-29
       <div class="coach-feedback">
         <p>White plays 29. g3, a blunder that allows Black to seize the initiative. The move weakens the kingside and allows Black's knight to jump to g5 with a strong attack. Instead, White should have played 29. Qc6, maintaining control and preventing Black's counterplay.</p>
         <br>
-        <p><strong>Recommendation:</strong> 29. Qc6 Qe7 30. Nd2 Bg5 31. Ndc4 Bh4 32. Ne3 Qf6 33. Rf1 Nf4 34. g3 Qe6</p>
+        <p><strong>Recommendation:</strong> 29. Qc6 Qe7 30. Nd2 Bg5 31. Ndc4 Bh4</p>
         <br>
         <p><strong>Why it's better:</strong> Qc6 keeps White's queen active and prevents Black's knight from becoming a major threat. The move also maintains pressure on Black's position.</p>
         <br>
@@ -108,7 +108,7 @@ date: 2025-03-29
       <div class="coach-feedback">
         <p>White plays 61. Nh2, a blunder that loses the game. The move allows Black's bishop to dominate the position and promote the h-pawn. Instead, White should have played 61. Ke2, keeping the knight active and preventing Black's pawn from advancing.</p>
         <br>
-        <p><strong>Recommendation:</strong> 61. Ke2 Bg5 62. Kf3 Bd8 63. Ne3 h2 64. Kg2 Bc7 65. Nd5 Ba5 66. Kxh2 Kxc4</p>
+        <p><strong>Recommendation:</strong> 61. Ke2 Bg5 62. Kf3 Bd8 63. Ne3 h2</p>
         <br>
         <p><strong>Why it's better:</strong> Ke2 keeps the king active and prevents Black's pawn from promoting. The knight can still defend key squares, and White can maintain counterplay.</p>
         <br>
