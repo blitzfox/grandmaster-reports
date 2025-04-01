@@ -46,4 +46,10 @@ title: Chess Game Reports
     <p>Analysis of 4 critical moments from a recent game</p>
     <p><a href="/alientcp/" class="view-report">View Report</a></p>
   </div>
+  
+  <div class="report-card">
+    <h2>Game Report – @rockyu</h2>
+    <p>Analysis of 4 critical moments from a recent game</p>
+    <p><a href="/rockyu/" class="view-report">View Report</a></p>
+  </div>
 </div> 
